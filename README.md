@@ -10,7 +10,7 @@ Pensando nessa estrutrura simples e rápida de processamento do Bigquery, me des
 Por ser um conjunto de dados simples a identificação das dimensões e métricas é rápida.
 
 ### Modelagem dimensional
-![modelagem domensional dw](C:\Users\EBMquintto\Pictures\modelagem-dw-games.png)
+![modelagem domensional dw](https://github.com/ManoelCabral1/Prints/blob/main/modelagem-dw-games.png)
 
 ### Script de criação da área de stage e carga das tabelas dimensão
 
