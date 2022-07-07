@@ -1,4 +1,4 @@
-# Data warehouse no Bigquery com SQL puro
+# Data warehouse no Bigquery com SQL puro :technologist: :bar_chart:
 
 ## O que é BigQuery?
 É uma solução em formato de estrutura para armazenamento de dados, criada pelo Google, com o objetivo de simplificar a integração e análise de um grande volume de informações (Big Data), tornando, por exemplo, mais assertivo, barato e produtivo o processo de levantamento, que possibilita aos líderes das empresas entender o resultado de seus investimentos.
@@ -150,5 +150,5 @@ select  p.Publisher as publicador,
 Essas consultas podem ser acessadas por vários aplicativos de BI como: PowerBI, DataStudio, ou nas planilhas Google, ou acessados via python ou outra linguagem, desde que se trenha as credenciais de acesso do Bigquery.
 
 ### Exemplo de relatório no Google Datastudio com os dado do DW.
-![relatório](C:\Users\EBMquintto\Pictures\relatorio-dw.png)
+![relatório](https://github.com/ManoelCabral1/Prints/blob/main/relatorio-dw.png)
 
